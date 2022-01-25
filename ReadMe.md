@@ -4,4 +4,4 @@
 ---
 
 
-![alt text](assets/../../assets/İmg.png)
+![alt text](assets/İmg.png)
